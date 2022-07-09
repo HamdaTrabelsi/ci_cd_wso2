@@ -38,7 +38,7 @@ paths:
                 schema:
                   $ref: '#/components/schemas/ProductList'          
       post: 
-        description: "Add a Product"
+        description: "Add a product"
         requestBody: 
           description: Product object that needs to be added to the store
           content:
