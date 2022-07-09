@@ -8,7 +8,7 @@ servers:
 paths:
     /products: 
       get: 
-        description: "Get Product List"
+        description: "Get Product list"
         parameters: 
           - 
             name: "start"
